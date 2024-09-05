@@ -1,0 +1,18 @@
+{
+    "pt": {
+        "titulo": "Desafio de mudar tema e idioma!",
+        "textinho": "Esse é um texto aleatório pra não ficar só o título",
+        "tema": "Tema:",
+        "botaoTema": "Trocar tema",
+        "idioma": "Idioma:",
+        "botaoIdioma": "Troca idioma"
+    },
+    "en": {
+        "titulo": "Challenge of changing language and theme (meu inglês pobre)",
+        "textinho": "This is a random text so it isn't only the title",
+        "tema": "Theme:",
+        "botaoTema": "Change theme",
+        "idioma": "Language:",
+        "botaoIdioma": "Change language"
+    }
+}
